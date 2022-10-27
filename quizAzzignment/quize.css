@@ -1,0 +1,193 @@
+*{
+                margin: 0;
+                padding: 0;
+                background-image:; 
+
+    		}
+    		form{
+    			margin-left: 30;
+    			padding-left: 30;
+    		}
+    		table{
+    			margin-left: 15px;
+    			border-bottom: 10px;
+
+    		}
+    		tr{
+                 margin-top: 20px;
+                 margin-bottom: 20px: ;
+    		}
+    		
+
+    		#qiz{
+    			/*background-image: url("backgroung.png");*/
+    			background-position: center;
+    			background-size: cover;
+    			/*background-blend-mode:multiply;*/
+    			margin-left: 60px;
+    			margin-right: 40px;
+    			margin-top: 10px;
+    			/*border-radius: 15px;*/
+    			font-size: 20px;
+    			border-bottom: 20px;
+    		background-color: #E1E3E1;
+    		color: white;
+    		border-width: 1px;
+    		font-family:sans-serif;
+    		padding-top: 10px;
+    		padding-left: 10px;
+    		width: 900px;
+    		border-style: solid;
+    		border-color: black;
+
+    	}
+    	#headDiv{	
+    		padding-top: 10px;
+    		padding-bottom: 10px;
+    		margin-top: 40px;
+    		font-family: sans-serif;
+    		font-size: 10px;
+    		text-align: center;
+    		background-color: #218604;
+    	    height: 20px;
+    	    width: 300px	;
+    	    color: white;
+    	    
+    	}
+    	body{
+    		background-color: #FFFFFF;
+    		/*padding-left: 40px;*/
+    		padding-right: 40px: ;
+    	}
+    	.questins{
+    			margin-top: 10px;
+    			padding-top: 10px;
+    			color: black;
+    		}
+    		.anss{
+    		margin-top: 10px;
+    			padding-top: 10px;
+    			color:#DA0000;	
+    		}
+    		#formsubmition{
+    			margin-top: 30px;
+    			margin-left: 450px;
+    			margin-bottom: 50px;
+    			height: 50px;
+    			width: 120px;
+    			border-radius: 15px;
+    			border-color: lightgreen;
+    			border-width: 2px;
+    			background-color:lightsalmon;
+
+    		}
+    		#formsubmition:hover{
+    			background-color: goldenrod;
+
+    		}
+    		#menu{
+    			height:40px; 
+    			background-color: lightcoral;
+    			padding-top: 8px;
+    			display: flex;
+    			margin-top: 10px;
+    		}
+    		.bar{
+    			background-color: white;
+    			height: 5px;
+    			width: 30px;
+    			margin-top: 2px;
+    			margin-left: 5px;
+    			border-radius: 5px;
+    		}
+    		#menuBar{
+
+    		    height: 35px;
+    			width: 35px;
+    			margin-left: 5px;
+    			border-radius: 5px;
+
+    		}
+    		#searchBar{
+                 text-align: left;
+    			height: 25px;
+    			width: 400px;
+    			border: solid;
+    			border-color: black;
+    			border-width: 1px;
+    			margin-left: 150px;
+    			border-radius: 15px;
+    			display: flex;
+    			background-color: #E2DFDF;
+    			padding: 0px 0px 0px 0px;
+
+    		}
+    		 #search{
+            height: 20px;
+    			width: 25px;
+    			display: flex;
+    			border-width: 1px;
+    			margin-top: 2px;
+    			margin-left: 10px;
+            }
+    		#searchIcon{
+    			height: 13px;
+    			width: 15px;
+    			border-radius: 50px;
+    			border-color: black;
+    			border: solid;
+    			border-width: 1px;
+    			
+    		}
+            #searchIconbar{
+            	height: 3px;
+            	width: 10px;
+            	border: solid;
+            	border-color: black;
+            	border-width: 1px;
+            	transform: rotate(35deg);
+            	border-radius: 10px;
+            	margin-top: 15px;
+            }
+           #inputSearch{
+           	width: 350px;
+           	border-top-left-radius:10px ;
+           	border-bottom-left-radius:10px ;
+	           }
+           #mainmenuHead{
+           	display: flex;
+           	margin-left: 100px;
+           	margin-top: 7px;
+
+           }
+           .menuhead{
+             padding: auto;
+            height: 20px;
+            border-radius: 10px;
+            margin-right: 10px;
+           	width:70px;
+           border-color: ;
+           text-align: center;
+           font-family: sans-serif;
+           font-size: smaller;
+           	
+           }
+           .menuhead:hover{
+    			background-color:lightseagreen;
+
+                  }
+                  p{
+                  	font-size: 30px;
+                  }
+                  marquee{
+                  	color: blue;
+                  }
+                  #mainDiv{
+                  	display: flex;
+                  }
+                  #adds{
+                  	width: 250px;
+                  }
+                  .zadds{
+                  	margin-top: 50px;
+                  }
